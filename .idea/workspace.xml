@@ -5,52 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10a89013-796f-4edb-a622-fe757417b64f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/FirstPageManagement.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/childrenPageManagement.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/emailManagement.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/menPageManagement.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/womenPageManagement.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/checkout.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/masterAdmin.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/mail.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/footerAdmin.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/modal.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/slider.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/products.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/products1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/products2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/registered.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/blank.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/charts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/forgot-password.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/tables.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts1/master.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts2/master.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials1/footer.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials1/header.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials2/footer.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials2/header.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/registered.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/slider.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/slider.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +40,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="176">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/partials/slider.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -108,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/Sells.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -158,15 +132,15 @@
         <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials2/footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials2/header.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/partials/slider.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/footerAdmin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/modal.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/masterAdmin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/FirstPageManagement.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/Sells.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/partials/slider.blade.php" />
       </list>
     </option>
   </component>
@@ -385,12 +359,12 @@
       <workItem from="1561567384933" duration="2595000" />
       <workItem from="1561572455201" duration="254000" />
       <workItem from="1561595639100" duration="13751000" />
-      <workItem from="1561640884915" duration="1132000" />
+      <workItem from="1561640884915" duration="1897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26375000" />
+    <option name="totallyTimeSpent" value="27140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -621,20 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/slider.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/mail.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -670,13 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -687,7 +640,35 @@
     <entry file="file://$PROJECT_DIR$/resources/views/admin/Sells.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/headerAdmin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/womenPageManagement.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/slider.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
