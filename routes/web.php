@@ -12,6 +12,6 @@
 */
 
 Route::get('/', function () {
-    return view('admin.sells');
+    return view('admin.sales');
 });
 

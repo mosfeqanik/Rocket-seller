@@ -3,6 +3,7 @@
 @section('contents')
     <div class="card mb-3">
         <div class="card-header">
+            @include('errors.error')
             <i class="fas fa-chart-area"></i>
             Area Chart Example</div>
         <div class="card-body">

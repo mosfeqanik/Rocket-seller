@@ -2,6 +2,7 @@
 @extends('layouts1.master')
 @section('content1')
     <div class="banner1">
+        @include('errors.error')
         <div class="container">
             <h3><a href="index.html">Home</a> / <span>Registered</span></h3>
         </div>

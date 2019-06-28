@@ -3,6 +3,7 @@
 @section('content1')
 <!--banner-->
 <div class="banner1">
+    @include('errors.error')
     <div class="container">
         <h3><a href="index.html">Home</a> / <span>Women</span></h3>
     </div>

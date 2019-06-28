@@ -2,6 +2,7 @@
 @extends('layouts1.master')
 @section('content1')
     <div class="banner-w3">
+        @include('errors.error')
         <div class="demo-1">
             <div id="example1" class="core-slider core-slider__carousel example_1">
                 <div class="core-slider_viewport">

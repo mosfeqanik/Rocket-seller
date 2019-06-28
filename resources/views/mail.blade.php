@@ -1,9 +1,9 @@
 @section('title','Mail')
 @extends('layouts1.master')
 @section('content1')
-    <!--header-->
     <!--banner-->
     <div class="banner1">
+        @include('errors.error')
         <div class="container">
             <h3><a href="index.html">Home</a> / <span>Mail Us</span></h3>
         </div>

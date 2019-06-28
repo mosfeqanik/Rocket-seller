@@ -4,6 +4,7 @@
     <!-- DataTables Example -->
     <div class="card mb-3">
         <div class="card-header">
+            @include('errors.error')
             <i class="fas fa-table"></i>
             Data Table Example</div>
         <div class="card-body">
